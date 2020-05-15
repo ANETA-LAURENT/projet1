@@ -1,7 +1,7 @@
-URL: 
+URL: https://aneta-laurent.github.io/projet1/
 
 
- <img src="Screenshot.png" alt="WebAgency"> 
+ <img src="Web.png" alt="WebAgency"> 
 
 
 Project ("Intégrez la maquette du site d'une agence web") du parcourt "Développeur Web Junior" d'OpenClassrooms.</h3>
