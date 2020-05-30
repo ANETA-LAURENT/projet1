@@ -1,4 +1,4 @@
-URL:  <a href="https://aneta-laurent.github.io/projet1/" style="text center" target="_blank"
+URL:  <a href="https://aneta-laurent.github.io/projet1/" class="text center" target="_blank"
                 >Webagency</a>
   
 
